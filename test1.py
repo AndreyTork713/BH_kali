@@ -8,6 +8,9 @@ def main():
         print('Я вас не знаю, покиньте немедленно',
               'данную изолированную среду! ')
 
+def new_function():
+    pass
+
 
 if __name__ == '__main__':
     main()
